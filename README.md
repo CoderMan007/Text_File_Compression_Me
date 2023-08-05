@@ -1,9 +1,7 @@
 # Text File Compression
 A project on text file compression using Huffman encoding and decoding
 
-For mentees:
-1. Fork the repository
-2. Clone the fork
-3. Add a folder with your name, and write your code there (any language)
-4. Push the changes to the fork
-5. Create a pull request from the fork to the main repo
+
+![HuffmanAlgorithmGif](https://github.com/arfath11/Text_File_Compression_Me/assets/74487575/1765d0dd-e403-40c0-b020-b3c9b8f37f92)
+
+
